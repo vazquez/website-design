@@ -31,3 +31,12 @@ Here we go.
 
 - Finessing things over.
 - Adding some navigation.
+
+---
+
+<img src="https://dl.dropboxusercontent.com/u/43783651/Large%20Device%20Desktops%202.png"/>
+
+- Added wordmark
+- Hover state on navigation
+- Started to design the content section. I like the big text, but the layout might change.
+- Content is the same as my current website. That will change, but for now it should work :)
