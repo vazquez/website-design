@@ -27,3 +27,7 @@ Here we go.
 
 ---
 
+<img src="https://photos-3.dropbox.com/t/2/AABKnhbBL0hRoOhyzW2A_S09dFpwoMMotnWmFyLo97EI5g/12/43783651/png/32x32/1/1438988400/0/2/Large%20Device%20Desktops.png/COOr8BQgASACIAcoASgCKAc/wM6s8F0Nl6sY9M6pNIsTEO2tFY4-km7ZYOJ1gVvJ4h8?size=2048x1536&size_mode=2"/>
+
+- Finessing things over.
+- Adding some navigation.
