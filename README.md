@@ -40,3 +40,9 @@ Here we go.
 - Hover state on navigation
 - Started to design the content section. I like the big text, but the layout might change.
 - Content is the same as my current website. That will change, but for now it should work :)
+
+---
+
+<img src="https://dl.dropboxusercontent.com/u/43783651/Large%20Device%20Desktops%203.png"/>
+
+- I like where this is going. Adding a section on the right with quick facts.
