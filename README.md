@@ -10,3 +10,11 @@ I like it. It works well. But I am looking for something new.
 
 Here we go.
 
+#### Friday August 7th, 2015
+
+- I want something clean, with minimal colours (2 max).
+- I want clean typography and legible text.
+- I want beautiful imagery.
+- I want a single page website, but separate project pages.
+- I want a friendly but elegant tone.
+- I want to explore layout options, go with something funky. Why not?
