@@ -62,3 +62,9 @@ Here we go.
 - I'm starting to work on the Projects section of the site. I think it looks nice and clean. Maybe I need to bump up the px value of the text.
 
 ![](img/5.png)
+
+---
+
+- Made small modifications to the Projects section. Added some intro text. Made font weight of the `View Case Study` a bit more bold.
+
+![](img/6.png)
