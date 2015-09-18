@@ -49,6 +49,16 @@ Here we go.
 
 ---
 
+#### Thursday September 10th, 2015
+
 - My colleague Sabrina Ng made an awesome illustration of me, I want to use it! What do you think?
 
 ![](img/4.png)
+
+---
+
+#### Thursday September 18th, 2015
+
+- I'm starting to work on the Projects section of the site. I think it looks nice and clean. Maybe I need to bump up the px value of the text.
+
+![](img/5.png)
